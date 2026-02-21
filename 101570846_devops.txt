@@ -3,3 +3,5 @@ COMP 2156 is an introductory course that teaches the fundamentals of DevOps and 
 Students learn how to create repositories, manage branches, and merge code changes. These skills are essential for working in professional development teams where collaboration and continuous integration are important.
 
 Overall, this course builds a strong foundation in DevOps concepts. It prepares students for future roles in IT, system administration, and software development by introducing industry-relevant workflows and tools.
+DevOps promotes continuous integration and faster delivery of software.
+DevOps improves collaboration between development and operations teams.
