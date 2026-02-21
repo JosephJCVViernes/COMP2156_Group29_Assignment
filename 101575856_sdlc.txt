@@ -5,3 +5,4 @@ Continuous Integration and Continuous Deployment improve reliability.
 DevOps improves collaboration between teams.
 Automation reduces deployment risks.
 Monitoring helps detect issues early.
+DevOps reduces downtime and improves reliability.
