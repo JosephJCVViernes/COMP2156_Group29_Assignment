@@ -1,0 +1,5 @@
+DevOps supports the Software Development Life Cycle.
+It enables continuous integration and delivery.
+Automation improves quality.
+DevOps reduces deployment time.
+Continuous integration helps developers detect errors early.
