@@ -7,3 +7,4 @@ Testing is a critical phase in SDLC that ensures software quality.
 Maintenance ensures the software remains functional after release.
 The planning phase defines the scope and goals of the software project.
 The design phase focuses on architecture and system structure.
+Testing ensures the software works correctly before release.
