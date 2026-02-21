@@ -1,0 +1,7 @@
+COMP2156 is a DevOps course focused on Git and collaboration.
+We learn branching, merging, commits, and repository management.
+DevOps uses automation and CI tools like GitHub Actions.
+Version control allows teams to safely collaborate on projects.
+Git branching allows safe parallel development.
+CI pipelines automate testing and builds.
+Frequent small releases are safer than big releases.
