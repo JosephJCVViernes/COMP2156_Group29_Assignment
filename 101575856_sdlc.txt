@@ -3,3 +3,4 @@ It connects development and operations teams.
 Automation reduces errors and improves deployment speed.
 Continuous Integration and Continuous Deployment improve reliability.
 DevOps improves collaboration between teams.
+Automation reduces deployment risks.
