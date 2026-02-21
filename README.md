@@ -12,5 +12,7 @@ All work is completed following the instructions for branching, committing, and 
 - Amarit Amoush
 
 
-
-
+Personal contribution by Steven Osorio.
+-Minor improvements to documentation.
+-Formatting adjustments and cleanup.
+Final review completed by Steven.
