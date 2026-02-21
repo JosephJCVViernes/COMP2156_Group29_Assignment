@@ -1,0 +1,7 @@
+DevOps combines development and operations.
+It improves automation and teamwork.
+COMP2156 teaches Git and CI/CD.
+DevOps helps deliver software faster.
+DevOps practices include automated testing and deployment.
+DevOps improves collaboration between development and operations teams.
+CI/CD pipelines are essential in modern software development.
