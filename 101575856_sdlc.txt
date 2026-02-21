@@ -1,0 +1,4 @@
+DevOps plays an important role in the Software Development Life Cycle (SDLC).
+It connects development and operations teams.
+Automation reduces errors and improves deployment speed.
+Continuous Integration and Continuous Deployment improve reliability.
