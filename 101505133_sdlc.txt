@@ -3,3 +3,4 @@ It enables continuous integration and delivery.
 Automation improves quality.
 DevOps reduces deployment time.
 Continuous integration helps developers detect errors early.
+DevOps shortens the release cycle of software products.
