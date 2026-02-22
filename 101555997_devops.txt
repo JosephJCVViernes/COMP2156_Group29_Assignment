@@ -20,3 +20,7 @@ IaC lets teams create servers and environments using code instead of manual setu
 Monitoring and logging
 
 Monitoring tracks performance and uptime, while logs record what happens in the system. Together they help teams detect issues quickly and fix problems before users are impacted.
+
+CI/CD and automation
+
+CI/CD automates building and testing so errors are caught early. It also helps teams release updates faster and with fewer mistakes.
