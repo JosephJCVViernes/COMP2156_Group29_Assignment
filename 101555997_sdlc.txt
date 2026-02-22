@@ -3,3 +3,7 @@ The Software Development Life Cycle (SDLC) includes steps like planning, designi
 For example, CI (Continuous Integration) helps developers merge code changes frequently and run automated checks, which reduces bugs and integration problems. CD (Continuous Delivery/Deployment) helps release changes in a controlled and repeatable way, making deployments less risky. This leads to quicker feedback, fewer errors, and faster improvements.
 
 DevOps also supports monitoring and logging after deployment. When systems are monitored, teams can quickly detect issues and fix them. Overall, learning DevOps is important because it improves collaboration, speed, quality, and stability across the entire SDLC.
+
+DevOps in the SDLC
+
+DevOps supports the SDLC by connecting development and operations. Frequent small changes plus automated testing reduces risk and improves software quality.
