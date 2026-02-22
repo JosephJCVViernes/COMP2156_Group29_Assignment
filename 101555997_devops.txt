@@ -1,0 +1,34 @@
+
+COMP 2156 (DevOps for System Administration) teaches how to use DevOps practices to manage software and IT systems more efficiently. A main focus is using Git and GitHub for version control, branching, and collaborating in a team. This helps organize work, track changes, and prevent losing progress.
+
+In this course, we also learn about CI/CD concepts, which means automating steps like testing, building, and deploying. Tools such as GitHub Actions can run workflows automatically when code is pushed or when a pull request is created. This helps catch mistakes early and keeps the project stable.
+
+Another important part of DevOps is communication and teamwork. DevOps connects development and operations so that updates can be delivered faster and more reliably. By learning DevOps tools and workflow, we can improve quality, reduce manual work, and manage projects in a more professional way.
+
+Git & collaboration
+
+Git helps teams collaborate by tracking every change with commits. Branches let each member work independently, and pull requests make it easier to review changes before merging into the main branch. Clear commit messages also make it easier to understand the project history.
+
+CI/CD and automation
+
+CI/CD means continuous integration and continuous delivery. It automates building and testing so errors are caught early, and it helps teams release updates faster and more reliably.
+
+Infrastructure as Code (IaC)
+
+IaC lets teams create servers and environments using code instead of manual setup. This makes systems consistent, repeatable, and easier to rebuild if something breaks.
+
+Monitoring and logging
+
+Monitoring tracks performance and uptime, while logs record what happens in the system. Together they help teams detect issues quickly and fix problems before users are impacted.
+
+CI/CD and automation
+
+CI/CD automates building and testing so errors are caught early. It also helps teams release updates faster and with fewer mistakes.
+
+Security (DevSecOps)
+
+DevSecOps means adding security checks into the pipeline. Automated scans and secure coding practices help catch vulnerabilities earlier instead of after release.
+
+Containers and Docker
+
+Containers package an app with everything it needs to run. Tools like Docker make deployments consistent across different machines and environments.
