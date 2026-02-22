@@ -9,4 +9,7 @@ Git & collaboration
 
 Git helps teams collaborate by tracking every change with commits. Branches let each member work independently, and pull requests make it easier to review changes before merging into the main branch. Clear commit messages also make it easier to understand the project history.
 
+CI/CD and automation
+
+CI/CD means continuous integration and continuous delivery. It automates building and testing so errors are caught early, and it helps teams release updates faster and more reliably.
 
