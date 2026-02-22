@@ -28,3 +28,7 @@ CI/CD automates building and testing so errors are caught early. It also helps t
 Security (DevSecOps)
 
 DevSecOps means adding security checks into the pipeline. Automated scans and secure coding practices help catch vulnerabilities earlier instead of after release.
+
+Containers and Docker
+
+Containers package an app with everything it needs to run. Tools like Docker make deployments consistent across different machines and environments.
