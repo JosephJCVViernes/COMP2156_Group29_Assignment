@@ -7,3 +7,7 @@ DevOps also supports monitoring and logging after deployment. When systems are m
 DevOps in the SDLC
 
 DevOps supports the SDLC by connecting development and operations. Frequent small changes plus automated testing reduces risk and improves software quality.
+
+Continuous feedback
+
+Feedback from users, monitoring, and testing helps teams improve each release. This creates a cycle where the product becomes more stable and secure over time.
