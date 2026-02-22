@@ -24,3 +24,7 @@ Monitoring tracks performance and uptime, while logs record what happens in the 
 CI/CD and automation
 
 CI/CD automates building and testing so errors are caught early. It also helps teams release updates faster and with fewer mistakes.
+
+Security (DevSecOps)
+
+DevSecOps means adding security checks into the pipeline. Automated scans and secure coding practices help catch vulnerabilities earlier instead of after release.
