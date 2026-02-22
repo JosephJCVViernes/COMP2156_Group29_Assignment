@@ -13,3 +13,6 @@ CI/CD and automation
 
 CI/CD means continuous integration and continuous delivery. It automates building and testing so errors are caught early, and it helps teams release updates faster and more reliably.
 
+Infrastructure as Code (IaC)
+
+IaC lets teams create servers and environments using code instead of manual setup. This makes systems consistent, repeatable, and easier to rebuild if something breaks.
