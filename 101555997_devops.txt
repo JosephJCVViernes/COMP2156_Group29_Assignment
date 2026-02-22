@@ -16,3 +16,7 @@ CI/CD means continuous integration and continuous delivery. It automates buildin
 Infrastructure as Code (IaC)
 
 IaC lets teams create servers and environments using code instead of manual setup. This makes systems consistent, repeatable, and easier to rebuild if something breaks.
+
+Monitoring and logging
+
+Monitoring tracks performance and uptime, while logs record what happens in the system. Together they help teams detect issues quickly and fix problems before users are impacted.
