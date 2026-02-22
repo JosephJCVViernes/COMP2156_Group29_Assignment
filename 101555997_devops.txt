@@ -5,5 +5,8 @@ In this course, we also learn about CI/CD concepts, which means automating steps
 
 Another important part of DevOps is communication and teamwork. DevOps connects development and operations so that updates can be delivered faster and more reliably. By learning DevOps tools and workflow, we can improve quality, reduce manual work, and manage projects in a more professional way.
 
+Git & collaboration
+
+Git helps teams collaborate by tracking every change with commits. Branches let each member work independently, and pull requests make it easier to review changes before merging into the main branch. Clear commit messages also make it easier to understand the project history.
 
 
